@@ -36,11 +36,10 @@ Audit Logging:
 - AFTER DELETE trigger logs deleted players with `deleted_at` timestamp
 
 
-
-Screenshot: 
-
+Screenshot: https://pointpark-my.sharepoint.com/:i:/g/personal/mgajic_pointpark_edu/ESrjqiBPLDJGjRJAQN_yKzMBHvVnIE_p2b5ch2vuoBNLAQ?e=2AqFVm
 
 
-ER Diagram (Text Version)
+ER Diagram: https://pointpark-my.sharepoint.com/:i:/g/personal/mgajic_pointpark_edu/EcpQIw0tiQBCrdJysWHh2LkBTASHcCJe239Kh7MtTLXDIw?e=Ci70OS
+
 
 
